@@ -1,6 +1,0 @@
-git filter-branch --tree-filter 'rm filename' HEAD
-git remote rm sofake
-git checkout -b <branch-name>
-git checkout <branch-name>
-git rm --cached filename
-git rm filename
